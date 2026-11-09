@@ -1,0 +1,11 @@
+services:
+  site:
+    build: .
+    image: meu-site-nginx
+    ports:
+      - "8080:80"
+
+  servidor:
+    image: httpd:alpine
+    ports:
+      - "8081:80"
