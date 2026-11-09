@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- **Walter Medina** – [@GuidoLobo](https://github.com/GuidoLobo)
-- **Nome da sua amiga** – [@GitHub dela](https://github.com/USUARIO-DELA)
+- **Guilherme Caires** – [@GuidoLobo](https://github.com/GuidoLobo)
+- **Julia Mineiro** – [@juliamin1600](https://github.com/juliamin1600)
 
 ## Descrição do projeto
 
